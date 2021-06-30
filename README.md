@@ -1,3 +1,5 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.primisautomation.com%2F&psig=AOvVaw0eyvpAmrJJRBlFyZHg901M&ust=1625148391143000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKDByebDv_ECFQAAAAAdAAAAABAP)]
+
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
 <h3 align="center">A dedicated and hardworking undergraduate student who loves to explore...</h3>
 
