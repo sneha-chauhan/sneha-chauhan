@@ -6,7 +6,7 @@
 - 📫 How to reach me **sneha17112001@gmail.com**
 
 - ⚡ Fun fact **I think I am quite funny XD..**
-<img align="centre" alt="Coding" width="400"  height="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400"  height="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <h3 align="left">Connect with me:</h3>
