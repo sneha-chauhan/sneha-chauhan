@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
-<h3 align="center">A dedicated and hardworking undergraduate student who loves to explore and learn new stuffs.</h3>
+<h3 align="center">A dedicated and hardworking undergraduate student who loves to explore...</h3>
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
