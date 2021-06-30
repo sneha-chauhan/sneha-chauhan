@@ -1,5 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fspringboard-images%2Fimage%2Fupload%2Fw_1080%2Cc_limit%2Cq_auto%2Cf_auto%2Cfl_lossy%2Fwordpress%2F2020%2F01%2Fdance_party.gif&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fwhat-does-software-engineer-do%2F&tbnid=kDZhbzdKbbqqqM&vet=12ahUKEwjys-HVw7_xAhVik0sFHUYYAEkQMyhVegUIARCeAQ..i&docid=aoPytBxAUEnVPM&w=484&h=233&q=animated%20gif%20for%20%20software%20engineers&safe=active&ved=2ahUKEwjys-HVw7_xAhVik0sFHUYYAEkQMyhVegUIARCeAQ)]
-
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
 <h3 align="center">A dedicated and hardworking undergraduate student who loves to explore...</h3>
 
